@@ -10,7 +10,5 @@
         "county": "Lake"
     },
     "data": "http://rest.lakecountyil.gov/ArcGIS/rest/services/TaxPortalBaseMap/MapServer/41",
-    "type": "ESRI",
-    "skip": true,
-    "note": "times out"
+    "type": "ESRI"
 }
